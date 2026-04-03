@@ -90,5 +90,5 @@ If your version supports drag-and-drop, it may also require:
 ### 1. Clone or download the project
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/aadiossikka/Code-to-Text.git
+cd 
